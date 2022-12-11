@@ -1,0 +1,31 @@
+let courseList=[
+    {name: 'Operating Systems', code: 'CSE-311'},
+    {name: 'Operating Systems Lab', code: 'ACSE-312'},
+    {name: 'Electrical Devices & Instrumentations', code: 'ACSE-313'},
+    {name: 'Electrical Devices & Instrumentations Laba', code: 'CSE-314'},
+    {name: 'Microprocessor', code: 'CSE-321'},
+    {name: 'Microprocessor Lab   ', code: 'CSE-322'},
+    {name: 'Compiler Design', code: 'CSE-323'},
+    {name: 'Compiler Design Lab', code: 'CSE-324'},
+    {name: 'Computer Networking', code: 'CSE-325'},
+    {name: 'Computer Networking Lab', code: 'CSE-326'},
+    {name: 'Information System Analysis & Design', code: 'CSE-327'},
+    {name: 'Information System Analysis Lab', code: 'CSE-328'},
+    {name: 'Artificial Inteligence', code: 'CSE-329'},
+    {name: 'Artificial Intaligence Lab', code: 'CSE-330'},
+    {name: 'Project And Thesis', code: 'CSE-400'},
+    {name: 'Digital Logic Design', code: 'CSE-401'},
+    {name: 'Digital Logic Design Lab', code: 'CSE-402'},
+    {name: 'Machine Learning', code: 'CSE-419'},
+    {name: 'Web Database System', code: 'CSE-437'},
+    {name: 'Web Database System Lab', code: 'CSE-438'},
+    {name: 'Data Mining', code: 'CSE-441'},
+    {name: 'Data Mining Lab', code: 'CSE-442'},
+    {name: 'Simulation and Modeling', code: 'CSE-431'},
+    {name: 'Simulation and Modeling Lab', code: 'CSE-432'},
+    {name: 'Neural Network', code: 'CSE-433'},
+    {name: 'Neural Network Lab', code: 'CSE-434'},
+    {name: 'Software Engineering', code: 'CSE-425'}
+]
+
+export {courseList};
